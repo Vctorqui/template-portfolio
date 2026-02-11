@@ -9,7 +9,6 @@ Esta es una plantilla de portafolio minimalista y fácil de implementar, diseña
 
 ## ✨ Características
 
-- **Diseño Premium**: Estética de "lujo silencioso" con tipografía refinada y acentos dorados.
 - **Bento Grid**: Organización visual clara y moderna.
 - **Responsive**: Optimizado para móviles y escritorio.
 - **Sin Frameworks**: Hecho con HTML5 puro, CSS3 (variables y animaciones) y Vanilla JS.
