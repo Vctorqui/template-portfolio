@@ -1,5 +1,10 @@
 # Portfolio Minimalista
 
+<p align="center">
+  <img src="public/images/phone-cap.webp" width='200' alt="Preview 1">
+  <img src="public/images/desktop-cap.webp" width='300' alt="Preview 2">
+</p>
+
 Esta es una plantilla de portafolio minimalista y fácil de implementar, diseñada para profesionales que buscan una alternativa elegante a Linktree.
 
 ## ✨ Características
