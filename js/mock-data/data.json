@@ -1,0 +1,63 @@
+{
+  "profile": {
+    "name": "Tu Nombre",
+    "bio": "Data Analyst | Business Analyst",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop"
+  },
+  "socials": [
+    {
+      "label": "WA",
+      "title": "WhatsApp",
+      "url": "#",
+      "icon": "public/icons/whatsapp.svg"
+    },
+    {
+      "label": "EM",
+      "title": "Email",
+      "icon": "public/icons/mail.svg",
+      "url": "mailto:[EMAIL_ADDRESS]"
+    },
+    {
+      "label": "IN",
+      "title": "LinkedIn",
+      "url": "#",
+      "icon": "public/icons/linkedin.svg"
+    },
+    {
+      "label": "GH",
+      "title": "GitHub",
+      "url": "#",
+      "icon": "public/icons/github.svg"
+    }
+  ],
+  "links": [
+    {
+      "title": "Proyectos Destacados",
+      "meta": "Ver todo mi trabajo →",
+      "url": "#",
+      "featured": true
+    },
+    {
+      "title": "Proyecto 1",
+      "short_description": "Descripción corta del proyecto 1",
+      "meta": "Ver Proyecto →",
+      "url": "#",
+      "featured": false
+    },
+    {
+      "title": "Proyecto 2",
+      "short_description": "Descripción corta del proyecto 2",
+      "meta": "Ver Proyecto →",
+      "url": "#",
+      "featured": false
+    },
+    {
+      "title": "Proyecto 3",
+      "short_description": "Descripción corta del proyecto 3",
+      "meta": "Ver Proyecto →",
+      "url": "#",
+      "featured": false
+    }
+  ]
+}
